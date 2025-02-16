@@ -4,6 +4,8 @@
 # winget install -e --id Google.Chrome
 # set it as default browser
 
+# Allow script 
+# Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 
 # Define a function to check if a program is installed
